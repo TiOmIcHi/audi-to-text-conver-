@@ -1,5 +1,13 @@
 # audi-to-text-conver-
+
+
+
+
 Audio convert to txt 
+
+
+
+
 pywebview
 qtpy
 PyQt6
