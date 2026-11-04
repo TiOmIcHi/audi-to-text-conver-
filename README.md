@@ -8,12 +8,10 @@ Audio convert to txt
 
 
 
-pywebview
+python -m pip install -r pywebview
 qtpy
 PyQt6
 PyQt6-WebEngine
 SpeechRecognition
 requests
 pydub
-
-python -m pip install -r requirements.txt
